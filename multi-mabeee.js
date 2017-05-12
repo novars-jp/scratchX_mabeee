@@ -182,7 +182,7 @@ MaBeee.prototype = {
                 ScratchExtensions.unregister('MaBeee Extension');
                 ScratchExtensions.register('MaBeee Extension', descriptor, ext);
             });
-        }, 5000);
+        }, 1000);
     };
 
     ext.connectMaBeee = function(name) {
@@ -198,7 +198,7 @@ MaBeee.prototype = {
                     }, 100);
                 }
             }
-        }, 5000);
+        }, 1000);
     };
 
 
