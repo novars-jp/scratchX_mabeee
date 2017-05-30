@@ -2,20 +2,7 @@
 ScratchX上でMaBeeeを動かすための拡張機能です。現在はmacOSのみに対応しています。別途でMaBeeeのmacOS用アプリが必要なので、[こちらのページ](https://github.com/novars-jp/MaBeeeMacApp)からダウンロードしておいてください。
 
 ## 拡張機能のインポート方法
-<<<<<<< HEAD
 [こちらのページ](http://scratchx.org/?url=https://novars-jp.github.io/scratchX_mabeee/mabeee.js#scratch)にアクセスしてください。外部拡張機能のインポートのアラートが出ますが、ここでは無視して構いません。
-=======
-1. [ScratchX](http://scratchx.org/)のページを開いてください。
-![2017-04-12 22 48 11](https://cloud.githubusercontent.com/assets/24409457/25064940/9d83422e-2240-11e7-8a66-aa7e84ee9343.png)
-
-2. トップページの Open Extension URL をクリックして、https://novars-jp.github.io/scratchX_mabeee/mabeee.js を入力して進んでください。 
-
-3. 下の画像のようなアラートが出ますが、ここでは無視して構いません。
-![2017-04-13 2 19 41](https://cloud.githubusercontent.com/assets/24409457/25064958/cb892030-2240-11e7-894e-0a8dca7790dd.png)
-
-4. More Blocks の中に MaBeee Extension が現れれば準備完了です。
-![2017-04-12 23 36 29](https://cloud.githubusercontent.com/assets/24409457/25064961/eb364e26-2240-11e7-8e14-2391b0f1eb7f.png)
->>>>>>> ba223869cc52b6f146c388d96826d7b0b98b5737
 
 ## 各ブロックの使い方
 ここからは、拡張機能がインポートできたものとして、各ブロックの使い方を順に説明していきます。
