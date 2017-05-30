@@ -5,7 +5,7 @@ ScratchX上でMaBeeeを動かすための拡張機能です。現在はmacOSの�
 1. [ScratchX](http://scratchx.org/)のページを開いてください。
 ![2017-04-12 22 48 11](https://cloud.githubusercontent.com/assets/24409457/25064940/9d83422e-2240-11e7-8a66-aa7e84ee9343.png)
 
-2. トップページの Open Extension URL をクリックして、https://itome.github.io/scratchX_mabeee/mabeee.js を入力して進んでください。 
+2. トップページの Open Extension URL をクリックして、https://novars-jp.github.io/scratchX_mabeee/mabeee.js を入力して進んでください。 
 
 3. 下の画像のようなアラートが出ますが、ここでは無視して構いません。
 ![2017-04-13 2 19 41](https://cloud.githubusercontent.com/assets/24409457/25064958/cb892030-2240-11e7-894e-0a8dca7790dd.png)
