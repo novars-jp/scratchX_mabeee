@@ -11,7 +11,7 @@ MaBeee driver for pc. Please start this app before using MaBeee.
 ※MaBeee driver is now only available on macOS. We work hard on windows app now!
 
 ## Usage
-Click this link ([ScratcX/MaBeeeExtention](http://scratchx.org/?url=https://novars-jp.github.io/scratchX_mabeee/mabeee.js#scratch)) and open the extension.
+Click this link ([ScratcX/MaBeeeExtention](http://scratchx.org/?url=https://novars-jp.github.io/scratchX_mabeee/mabeee.en.js#scratch)) and open the extension.
 
 ## Usage of each blocks
 ### "Connect MaBeee" block
