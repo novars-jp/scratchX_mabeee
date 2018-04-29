@@ -144,7 +144,7 @@ function requestHttpGet(path, callback) {
             }
         }
     };
-    request.open('GET', 'http://localhost:111111/' + path, true);
+    request.open('GET', 'http://localhost:22222/' + path, true);
     request.send(null);
     setTimeout(function() {}, 100);
 }
