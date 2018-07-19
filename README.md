@@ -1,5 +1,5 @@
 # scratchX_mabeee
-ScratchX上でMaBeeeを動かすための拡張機能です。現在はmacOSのみに対応しています。別途でMaBeeeのmacOS用アプリが必要なので、[こちらのページ](https://github.com/novars-jp/MaBeeeMacApp)からダウンロードしておいてください。
+ScratchX上でMaBeeeを動かすための拡張機能です。別途MaBeee-Desktopアプリが必要なので、[こちらのページ](https://mabeee.mobi/usecase/scratch/)からダウンロードしておいてください。
 
 ## 拡張機能のインポート方法
 [こちらのページ](http://scratchx.org/?url=https://novars-jp.github.io/scratchX_mabeee/mabeee.js#scratch)にアクセスしてください。外部拡張機能のインポートのアラートが出ますが、ここでは無視して構いません。
