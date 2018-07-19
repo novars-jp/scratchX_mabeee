@@ -5,7 +5,7 @@ About detail of MaBeee see here -> [MaBeee Official site](https://mabeee.mobi/)
 
 ## Requirement
 
-- [Official MaBeee App for macOS](https://github.com/novars-jp/MaBeeeMacApp).
+- [Official MaBeee-Desktop App](https://mabeee.mobi/usecase/scratch/).
 MaBeee driver for pc. Please start this app before using MaBeee.
 
 ※MaBeee driver is now only available on macOS. We work hard on windows app now!
